@@ -21,4 +21,3 @@ To launch tests : python test.py
 To run pylint : pylint tennis_kata
 To try the tennis module game loop from a python command invite :
   > from tennis import game_loop
-  > game_loop
